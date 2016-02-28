@@ -1,5 +1,7 @@
 # Course Hub Bootstrap Skeleton (unreleased)
 
+[![Join the chat at https://gitter.im/hibbitts-design/grav-skeleton-course-hub-bootstrap](https://badges.gitter.im/hibbitts-design/grav-skeleton-course-hub-bootstrap.svg)](https://gitter.im/hibbitts-design/grav-skeleton-course-hub-bootstrap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The **Course Hub** skeleton is intended to accompany a face-to-face, blended or fully online university course. It supports a [flipped-LMS approach](http://hibbittsdesign.org/blog/posts/flipped-lms-using-an-open-and-collaborative-platform) using the modern flat-file (no database) Grav CMS as an open and collaborative Web platform.
 
 **Table of Contents**  
