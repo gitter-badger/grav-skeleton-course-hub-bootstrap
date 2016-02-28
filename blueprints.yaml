@@ -1,0 +1,16 @@
+name: Course Hub Bootstrap Site
+version: 0.9.8
+description: "Grav Course Hub skeleton package using a modified Bootstrap theme, designed to support an open and collaborative flipped-LMS approach."
+icon: university
+author:
+ name: Paul Hibbitts
+ email: paul@paulhibbitts.org
+ url: http://hibbittsdesign.org
+homepage: https://github.com/hibbitts-design/grav-skeleton-course-companion-bootstrap
+demo: http://demo.hibbittsdesign.org/grav-course-companion-bootstrap/
+keywords: bootstrap, theme, framework
+bugs: https://github.com/hibbitts-design/grav-skeleton-course-companion-bootstrap/issues
+license: MIT
+
+dependencies:
+  - course-hub-bootstrap
